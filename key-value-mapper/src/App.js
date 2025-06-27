@@ -1,5 +1,5 @@
 import './App.css';
-import DrugEditor from './Components/Tools/index optimize attempt 1';
+import DrugEditor from './Components/Tools/index';
 
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
